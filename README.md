@@ -1,0 +1,2 @@
+# Nai3AutomaticRollPicture
+一个基于.net的nai3自动roll图工具
